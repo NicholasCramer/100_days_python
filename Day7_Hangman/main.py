@@ -20,11 +20,11 @@ game_over = False
 while not game_over:
     guess = input("Guess a letter: ").lower()
 
-# Check if letter has been guessed previously
+    # Check if letter has been guessed previously
     if guess in display:
         print(f"You've already guessed {guess}.")
 
-# Check guessed letter
+    # Check guessed letter
     for position in range(len(chosen_word)):
         letter = chosen_word[position]
         if letter == guess:
