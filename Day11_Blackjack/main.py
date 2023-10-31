@@ -16,25 +16,19 @@ import random
 def deal_card():
 
     cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
-
     rand_card = random.choice(cards)
 
     return rand_card
 
 
 def calculate_score(hand):
-    hand_score = 0
-    for card in range(len(hand)):
-        hand_score = sum(hand)
-    if len(hand) == 2 and hand_score == 21:
+    if len(hand) == 2 and sum(hand) == 21:
         return 0
-    elif hand_score > 21 and 11 in hand:
+    elif sum(hand) > 21 and 11 in hand:
         for i in range(len(hand)):
             if hand[i] == 11:
                 hand[i] = 1
-                hand_score = sum(hand)
-
-    return hand_score
+    return sum(hand)
 
 
 def compare_score(player_score, comp_score):
@@ -53,35 +47,28 @@ def compare_score(player_score, comp_score):
 
 
 new_game = True
-
 while new_game:
 
     player_hand = []
     computer_hand = []
-    hand_total = 0
-    computer_total = 0
-    round_done = 0
     player_turn = True
     computer_turn = False
 
     print(logo)
 
     user_response = input("Would you like to play a game of blackjack? 'y' or 'n' ").lower()
-
     if user_response == 'y':
 
         while len(player_hand) < 2:
             player_hand.append(deal_card())
 
         hand_total = calculate_score(player_hand)
-
         print(f"\tYour cards: {player_hand}, current score: {hand_total}")
 
         while len(computer_hand) < 2:
             computer_hand.append(deal_card())
 
         print(f"\tComputer's first card: {computer_hand[0]}")
-
         computer_total = calculate_score(computer_hand)
 
         while player_turn:
@@ -95,7 +82,6 @@ while new_game:
                 if user_response == 'y':
                     player_hand.append(deal_card())
                     hand_total = calculate_score(player_hand)
-
                     print(f"\tYour cards: {player_hand}, current score: {hand_total}")
                     print(f"\tComputer's first card: {computer_hand[0]}")
                 else:
