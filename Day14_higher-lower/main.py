@@ -34,9 +34,9 @@ print(logo)
 
 player_score = 0
 continue_game = True
+first_item = get_item_for_compare()
 while continue_game:
 
-    first_item = get_item_for_compare()
     second_item = get_item_for_compare()
 
     print(f"Compare A: {first_item["name"]}, a {first_item["description"]} from {first_item["country"]}")
@@ -51,6 +51,7 @@ while continue_game:
         print()
         print(f"\tYou're right! Current Score: {player_score}")
         print()
+        first_item = second_item
     elif round_result == "Tie":
         print()
         print(f"Tie. Current Score: {player_score}")
