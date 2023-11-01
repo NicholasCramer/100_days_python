@@ -26,17 +26,17 @@ Day 10 - Beginner - Functions with outputs (Calculator)
 
 Day 11 - Beginner - Capstone - Blackjack project
 
-Day 12 - Beginner
+Day 12 - Beginner - Scopes (Number Guessing Game)
 
-Day 13 - Beginner
+Day 13 - Beginner - Debugging Learning
 
-Day 14 - Beginner
+Day 14 - Beginner - Higher Lower Game
 
-Day 15 - Intermediate
+Day 15 - Intermediate - Local Development Environment Setup (Coffee Machine)
 
-Day 16 - Intermediate
+Day 16 - Intermediate - Object Oriented Programming (Coffee Machine with OOP)
 
-Day 17 - Intermediate
+Day 17 - Intermediate - Benefits of OOP (Quiz Project)
 
 Day 18 - Intermediate
 
