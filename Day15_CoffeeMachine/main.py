@@ -59,15 +59,17 @@ def print_report():
     return report_contents
 
 
-def determine_drink_choice(drink):
-    if drink == "espresso":
+def determine_drink_choice(user_entry):
+    if user_entry == "espresso":
         return 1
-    elif drink == "latte":
+    elif user_entry == "latte":
         return 2
-    elif drink == "cappuccino":
+    elif user_entry == "cappuccino":
         return 3
-    else:
+    elif user_entry == "report":
         return print_report()
+    elif user_entry == "off":
+        return False
 
 
 def determine_total_bill():
@@ -243,7 +245,7 @@ def deduct_resources_after_successful_sale(resource_cost):
     return resources
 
 
-while continue_ordering:
+while continue_ordering == True:
 
     user_choice = input("\tWhat would you like? (espresso, latte, cappuccino): ").lower()
 
@@ -270,5 +272,10 @@ while continue_ordering:
         else:
             response = cannot_make_drink()
             print(response)
+    elif drink_choice is False:
+        continue_ordering = False
     else:
-        print(drink_choice)
+        if drink_choice is None:
+            print("Please select a drink from the list.")
+        else:
+            print(drink_choice)
