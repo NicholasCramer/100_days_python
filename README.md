@@ -38,9 +38,9 @@ Day 16 - Intermediate - Object Oriented Programming (Coffee Machine with OOP)
 
 Day 17 - Intermediate - Benefits of OOP (Quiz Project)
 
-Day 18 - Intermediate
+Day 18 - Intermediate - Intro to GUIs (Turtle Graphics Project)
 
-Day 19 - Intermediate
+Day 19 - Intermediate - 
 
 Day 20 - Intermediate
 
