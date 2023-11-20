@@ -40,19 +40,19 @@ Day 17 - Intermediate - Benefits of OOP (Quiz Project)
 
 Day 18 - Intermediate - Intro to GUIs (Turtle Graphics Project)
 
-Day 19 - Intermediate - 
+Day 19 - Intermediate - Instances, State and Higher Order Functions (Turtle Race project)
 
-Day 20 - Intermediate
+Day 20 - Intermediate - Snake game
 
-Day 21 - Intermediate
+Day 21 - Intermediate - Class Inheritance (Snake game continued)
 
-Day 22 - Intermediate
+Day 22 - Intermediate - Pong
 
-Day 23 - Intermediate
+Day 23 - Intermediate - Turtle Crossing Capstone
 
-Day 24 - Intermediate
+Day 24 - Intermediate - Files, Directories and Paths
 
-Day 25 - Intermediate
+Day 25 - Intermediate - Working with CSV data and the Pandas library
 
 Day 26 - Intermediate
 
