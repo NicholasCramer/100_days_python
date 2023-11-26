@@ -54,7 +54,7 @@ Day 24 - Intermediate - Files, Directories and Paths
 
 Day 25 - Intermediate - Working with CSV data and the Pandas library
 
-Day 26 - Intermediate - List Comprehension (Nato Alphabet project)
+Day 26 - Intermediate - List and Dictionary Comprehension (Nato Alphabet project)
 
 Day 27 - Intermediate - Tkinter, *args, **kwargs (Miles to Kilometers Converter project)
 
