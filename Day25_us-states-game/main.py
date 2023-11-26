@@ -17,10 +17,7 @@ while len(guessed_states) < 50:
     answer_state = screen.textinput(title=f"{len(guessed_states)}/50 States Correct", prompt="Name a state").title()
     # check if answer_state is one of the states from the data file
     if answer_state == "Exit":
-        states_to_learn = []
-        for state in ls_states:
-            if state not in guessed_states:
-                states_to_learn.append(state)
+        states_to_learn = [state for state in ls_states if state not in guessed_states]
         # Generate a csv file on exit that contains states that were not guessed by the user
         df = pandas.DataFrame(states_to_learn)
         df.to_csv("states_to_learn.csv", header=False, index=False)
