@@ -16,7 +16,7 @@ guessed_states = []
 while len(guessed_states) < 50:
     answer_state = screen.textinput(title=f"{len(guessed_states)}/50 States Correct", prompt="Name a state").title()
     # check if answer_state is one of the states from the data file
-    if answer_state == "Exit" or len(guessed_states) == 50:
+    if answer_state == "Exit":
         states_to_learn = []
         for state in ls_states:
             if state not in guessed_states:
@@ -39,4 +39,3 @@ if len(guessed_states) == 50:
     screen.clear()
     turtle.shape(congrats)
     screen.exitonclick()
-    
