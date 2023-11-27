@@ -58,11 +58,11 @@ Day 26 - Intermediate - List and Dictionary Comprehension (Nato Alphabet project
 
 Day 27 - Intermediate - Tkinter, *args, **kwargs (Miles to Kilometers Converter project)
 
-Day 28 - Intermediate
+Day 28 - Intermediate - Tkinter, Dynamic Typing (Pomodoro GUI app)
 
-Day 29 - Intermediate
+Day 29 - Intermediate - Tkinter (Password Manager GUI app)
 
-Day 30 - Intermediate
+Day 30 - Intermediate - Errors, Exceptions and JSON Data (Password Manager app improvements)
 
 Day 31 - Intermediate
 
