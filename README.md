@@ -64,9 +64,9 @@ Day 29 - Intermediate - Tkinter (Password Manager GUI app)
 
 Day 30 - Intermediate - Errors, Exceptions and JSON Data (Password Manager app improvements)
 
-Day 31 - Intermediate
+Day 31 - Intermediate - Flash Card App Capstone Project
 
-Day 32 - Intermediate+
+Day 32 - Intermediate+ - Send Email (smtplib) and Manage Dates (datetime) - (Automated Birthday Wisher project)
 
 Day 33 - Intermediate+
 
