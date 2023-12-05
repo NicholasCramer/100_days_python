@@ -41,7 +41,7 @@ def is_night():
 
 
 while True:
-    time.sleep(3600)
+    time.sleep(60)
     if is_iss_overhead() and is_night():
         with smtplib.SMTP("outlook.office365.com") as connection:
             connection.starttls()
