@@ -68,7 +68,21 @@ Day 31 - Intermediate - Flash Card App Capstone Project
 
 Day 32 - Intermediate+ - Send Email (smtplib) and Manage Dates (datetime) - (Automated Birthday Wisher project)
 
-Day 33 - Intermediate+
+Day 33 - Intermediate+ - API Endpoints & API Parameters (ISS Overhead Notifier app)
 
-Day 34 - Intermediate+
+Day 34 - Intermediate+ - API Practice (GUI Quiz App)
+
+Day 35 - Intermediate+ - Keys, Authentication, & Environment Variables: Send SMS (Rain Alert app)
+
+Day 36 - Intermediate+ - 
+
+Day 37 - Intermediate+ - 
+
+Day 38 - Intermediate+ - 
+
+Day 39 - Intermediate+ - 
+
+Day 40 - Intermediate+ - 
+
+Day 41 - Web Foundation - Introduction to HTML - 
 
