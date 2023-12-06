@@ -5,3 +5,4 @@ Day32/automated-birthday-wisher/credentials.py
 Day33/ISS-overhead-notifier/credentials.py
 Day35/rain-alert/credentials.py
 Day32/Day32_motivational-quote-emailer/credentials.py
+*.pyc
