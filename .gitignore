@@ -6,3 +6,4 @@ Day33/ISS-overhead-notifier/credentials.py
 Day35/rain-alert/credentials.py
 Day32/Day32_motivational-quote-emailer/credentials.py
 *.pyc
+Day36/stock-trading-news-alert/credentials.py
