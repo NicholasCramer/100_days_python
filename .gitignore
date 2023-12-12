@@ -8,3 +8,4 @@ Day32/Day32_motivational-quote-emailer/credentials.py
 *.pyc
 Day36/stock-trading-news-alert/credentials.py
 Day37/habit-tracker/credentials.py
+Day38/exercise-tracker/credentials.py
