@@ -74,15 +74,17 @@ Day 34 - Intermediate+ - API Practice (GUI Quiz App)
 
 Day 35 - Intermediate+ - Keys, Authentication, & Environment Variables: Send SMS (Rain Alert app)
 
-Day 36 - Intermediate+ - 
+Day 36 - Intermediate+ - Stock Trading News Alert project
 
-Day 37 - Intermediate+ - 
+Day 37 - Intermediate+ - API Post Requests & Headers (Habit Tracking project)
 
-Day 38 - Intermediate+ - 
+Day 38 - Intermediate+ - Workout Tracking Using Google Sheets
 
-Day 39 - Intermediate+ - 
+Day 39 - Intermediate+ - Flight Deal Finder capstone project pt 1
 
-Day 40 - Intermediate+ - 
+Day 40 - Intermediate+ - Flight Deal Finder capstone project pt 2
 
-Day 41 - Web Foundation - Introduction to HTML - 
+Day 41 - Web Foundation - Introduction to HTML - (Movie Ranking project)
+
+Day 42 - Web Foundation - Introduction to CSS - 
 
