@@ -86,5 +86,11 @@ Day 40 - Intermediate+ - Flight Deal Finder capstone project pt 2
 
 Day 41 - Web Foundation - Introduction to HTML - (Movie Ranking project)
 
-Day 42 - Web Foundation - Introduction to CSS - 
+Day 42 - Web Foundation - Intermediate HTML - (Birthday Invite website)
+
+Day 43 - Web Foundation - Introduction to CSS - (Color Vocab website)
+
+Day 44 - Web Foundation - Intermediate CSS - (Motivational Poster website)
+
+Day 45 - Intermediate+ - Web Scraping with Beautiful Soup - 
 
