@@ -92,5 +92,7 @@ Day 43 - Web Foundation - Introduction to CSS - (Color Vocab website)
 
 Day 44 - Web Foundation - Intermediate CSS - (Motivational Poster website)
 
-Day 45 - Intermediate+ - Web Scraping with Beautiful Soup - 
+Day 45 - Intermediate+ - Web Scraping with Beautiful Soup - (100 Must Watch Movies project)
+
+Day 46 - Intermediate+ - Web Scraping - (Spotify Playlist)
 
