@@ -96,3 +96,23 @@ Day 45 - Intermediate+ - Web Scraping with Beautiful Soup - (100 Must Watch Movi
 
 Day 46 - Intermediate+ - Web Scraping - (Spotify Playlist)
 
+Day 47 - Intermediate+ - Web Scraping - Automated Amazon Price Tracker
+
+Day 48 - Intermediate+ - Selenium WebDriver - Game Playing Bot
+
+Day 49 - Skip
+
+Day 50 - Skip
+
+Day 51 - Skip
+
+Day 52 - Skip
+
+Day 53 - Skip
+
+Day 54 - Intermediate+ - Introduction to Web Development with Flask
+
+Day 55 - Intermediate+ - HTML & URL Parsing in Flask (Higher Lower Game)
+
+Day 56 - 
+
