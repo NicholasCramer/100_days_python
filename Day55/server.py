@@ -7,6 +7,7 @@ print(rand_number)
 LOW_URL = "https://media.giphy.com/media/jD4DwBtqPXRXa/giphy.gif"
 HIGH_URL = "https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif"
 CORRECT_URL = "https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif"
+WELCOME_IMAGE = "https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif"
 
 app = Flask(__name__)
 
@@ -14,7 +15,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return "<h1>Guess a number between 0 and 9</h1>" \
-           "<img src='https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif'/>"
+           f"<img src='{WELCOME_IMAGE}'/>"
 
 
 @app.route('/<int:guess>')
