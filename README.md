@@ -114,5 +114,7 @@ Day 54 - Intermediate+ - Introduction to Web Development with Flask
 
 Day 55 - Intermediate+ - HTML & URL Parsing in Flask (Higher Lower Game)
 
-Day 56 - 
+Day 56 - Intermediate+ - Rendering HTML/Static files and Using Website Templates
+
+Day 57 - 
 
