@@ -118,5 +118,7 @@ Day 56 - Intermediate+ - Rendering HTML/Static files and Using Website Templates
 
 Day 57 - Intermediate+ - Templating with Jinja in Flask Applications
 
-Day 58 - 
+Day 58 - Web Foundation Bootstrap
+
+Day 59 - 
 
